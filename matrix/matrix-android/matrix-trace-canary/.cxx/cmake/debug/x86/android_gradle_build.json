@@ -1,0 +1,68 @@
+{
+  "stringTable": {
+    "0": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android19 --gcc-toolchain=/Users/zhoubo/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/zhoubo/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dtrace_canary_EXPORTS -I../../../../src/main/cpp -I../../../../build/intermediates/native_deps/extracted_native_dependencies/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=gnu++11 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -std=c++1z"
+  },
+  "buildFiles": [
+    "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/CMakeLists.txt",
+    "/Users/zhoubo/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/zhoubo/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "trace-canary-Debug-x86": {
+      "buildCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/.cxx/cmake/debug/x86\" trace-canary",
+      "buildType": "debug",
+      "toolchain": "3094220848",
+      "abi": "x86",
+      "artifactName": "trace-canary",
+      "files": [
+        {
+          "src": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/src/main/cpp/MatrixTracer.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/src/main/cpp/SignalHandler.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/src/main/cpp/Support.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/src/main/cpp/AnrDumper.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/src/main/cpp/TouchEventTracer.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/src/main/cpp/nativehelper/managed_jnienv.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-trace-canary/build/intermediates/cmake/debug/obj/x86/libtrace-canary.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3094220848": {
+      "cppCompilerExecutable": "/Users/zhoubo/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc"
+  ]
+}

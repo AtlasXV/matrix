@@ -1,0 +1,67 @@
+{
+  "buildFiles": [
+    "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/src/main/cpp/CMakeLists.txt",
+    "/Users/zhoubo/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/zhoubo/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/src/main/cpp/memory_util/CMakeLists.txt",
+    "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-hprof-analyzer/CMakeLists.txt",
+    "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-hprof-analyzer/lib/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "matrix_mem_util-Debug-x86": {
+      "artifactName": "matrix_mem_util",
+      "buildCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86\" matrix_mem_util",
+      "abi": "x86",
+      "output": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/build/intermediates/cmake/debug/obj/x86/libmatrix_mem_util.so",
+      "runtimeFiles": [
+        "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/build/intermediates/cmake/debug/obj/x86/libmatrix_hprof_analyzer.so"
+      ]
+    },
+    "matrix_hprof_analyzer_error-Debug-x86": {
+      "artifactName": "matrix_hprof_analyzer_error",
+      "buildCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86\" matrix_hprof_analyzer_error",
+      "abi": "x86",
+      "output": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86/memory_util/matrix-hprof-analyzer.out/lib/libmatrix_hprof_analyzer_error.a",
+      "runtimeFiles": []
+    },
+    "matrix_hprof_analyzer_reader-Debug-x86": {
+      "artifactName": "matrix_hprof_analyzer_reader",
+      "buildCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86\" matrix_hprof_analyzer_reader",
+      "abi": "x86",
+      "output": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86/memory_util/matrix-hprof-analyzer.out/lib/libmatrix_hprof_analyzer_reader.a",
+      "runtimeFiles": []
+    },
+    "matrix_hprof_analyzer_heap-Debug-x86": {
+      "artifactName": "matrix_hprof_analyzer_heap",
+      "buildCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86\" matrix_hprof_analyzer_heap",
+      "abi": "x86",
+      "output": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86/memory_util/matrix-hprof-analyzer.out/lib/libmatrix_hprof_analyzer_heap.a",
+      "runtimeFiles": []
+    },
+    "matrix_hprof_analyzer_parser-Debug-x86": {
+      "artifactName": "matrix_hprof_analyzer_parser",
+      "buildCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86\" matrix_hprof_analyzer_parser",
+      "abi": "x86",
+      "output": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86/memory_util/matrix-hprof-analyzer.out/lib/libmatrix_hprof_analyzer_parser.a",
+      "runtimeFiles": []
+    },
+    "matrix_hprof_analyzer_analyzer-Debug-x86": {
+      "artifactName": "matrix_hprof_analyzer_analyzer",
+      "buildCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86\" matrix_hprof_analyzer_analyzer",
+      "abi": "x86",
+      "output": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86/memory_util/matrix-hprof-analyzer.out/lib/libmatrix_hprof_analyzer_analyzer.a",
+      "runtimeFiles": []
+    },
+    "matrix_hprof_analyzer-Debug-x86": {
+      "artifactName": "matrix_hprof_analyzer",
+      "buildCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/.cxx/cmake/debug/x86\" matrix_hprof_analyzer",
+      "abi": "x86",
+      "output": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-resource-canary/matrix-resource-canary-android/build/intermediates/cmake/debug/obj/x86/libmatrix_hprof_analyzer.so",
+      "runtimeFiles": []
+    }
+  }
+}

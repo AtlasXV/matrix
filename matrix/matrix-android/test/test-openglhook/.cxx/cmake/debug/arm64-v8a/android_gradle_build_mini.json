@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/test/test-openglhook/CMakeLists.txt",
+    "/Users/zhoubo/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/zhoubo/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/test/test-openglhook/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/test/test-openglhook/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "test-openglhook-Debug-arm64-v8a": {
+      "artifactName": "test-openglhook",
+      "buildCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/test/test-openglhook/.cxx/cmake/debug/arm64-v8a\" test-openglhook",
+      "abi": "arm64-v8a",
+      "output": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/test/test-openglhook/build/intermediates/cmake/debug/obj/arm64-v8a/libtest-openglhook.so",
+      "runtimeFiles": []
+    }
+  }
+}

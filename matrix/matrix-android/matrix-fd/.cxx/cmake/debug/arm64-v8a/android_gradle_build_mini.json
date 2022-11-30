@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-fd/CMakeLists.txt",
+    "/Users/zhoubo/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/zhoubo/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-fd/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-fd/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "matrix-fd-Debug-arm64-v8a": {
+      "artifactName": "matrix-fd",
+      "buildCommand": "/Users/zhoubo/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-fd/.cxx/cmake/debug/arm64-v8a\" matrix-fd",
+      "abi": "arm64-v8a",
+      "output": "/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-fd/build/intermediates/cmake/debug/obj/arm64-v8a/libmatrix-fd.so",
+      "runtimeFiles": []
+    }
+  }
+}

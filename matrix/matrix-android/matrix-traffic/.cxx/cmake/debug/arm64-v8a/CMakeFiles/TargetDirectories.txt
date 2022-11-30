@@ -1,0 +1,3 @@
+/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-traffic/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-traffic/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-traffic/.cxx/cmake/debug/arm64-v8a/CMakeFiles/matrix-traffic.dir
