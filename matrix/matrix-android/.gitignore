@@ -10,3 +10,6 @@
 **/bin/
 /gradle/oss-android-template.gradle
 local.gradle
+
+CHANGELOG.json
+lib_version.txt

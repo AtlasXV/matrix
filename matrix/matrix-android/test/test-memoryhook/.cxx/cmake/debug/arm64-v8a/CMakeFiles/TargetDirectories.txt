@@ -1,3 +1,0 @@
-/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/test/test-memoryhook/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
-/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/test/test-memoryhook/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
-/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/test/test-memoryhook/.cxx/cmake/debug/arm64-v8a/CMakeFiles/test-memoryhook.dir

@@ -73,3 +73,5 @@ captures/
 **/bin
 **/classes
 *.apk
+
+.cxx

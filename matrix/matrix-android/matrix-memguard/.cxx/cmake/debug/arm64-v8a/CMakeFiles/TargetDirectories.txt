@@ -1,4 +1,0 @@
-/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-memguard/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
-/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-memguard/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
-/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-memguard/.cxx/cmake/debug/arm64-v8a/CMakeFiles/matrix-memguard.dir
-/Users/zhoubo/AndroidStudioProjects/AtlasV/matrix/matrix/matrix-android/matrix-memguard/.cxx/cmake/debug/arm64-v8a/CMakeFiles/memguard_base.dir
